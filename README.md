@@ -1,4 +1,4 @@
-# OpenAL
+# :tropical_fish: OpenAL
 This is a PyTorch/GPU implementation of our MICCAI 2023 paper [OpenAL: An Efficient Deep Active Learning Framework for Open-Set Pathology Image Classification](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_1).
 
 <p align="center">
